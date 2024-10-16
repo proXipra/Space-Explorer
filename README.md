@@ -30,3 +30,5 @@ The power decreases linearly during riding. We can recover it taking power boost
 ## Score System
 The score can increase by taking power boosts, and it also increases gradually as we cover distance.
 
+## Attribution
+Ingame main menu background photo *Designed by Freepik*

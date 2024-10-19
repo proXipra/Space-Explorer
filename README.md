@@ -26,7 +26,7 @@ In the ride of the spaceship, we face different planets that we need to avoid to
 
 If we touch the planets, the ship explodes with particle animation.
 
-<img src="https://github.com/user-attachments/assets/a181a132-c4d4-45ca-ac40-e49a046cae5d" width="750" height="500">
+<img src="https://github.com/user-attachments/assets/a181a132-c4d4-45ca-ac40-e49a046cae5d" width="850" height="500">
 
 * *Map is horizontally infinite. Planets and power boosts spawn randomly specific distance from previous ones.* 
 
